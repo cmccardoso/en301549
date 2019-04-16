@@ -109,20 +109,20 @@ Num. | Cláusula  | P | O | U | R  | U/C | Condição | Cláusula
 71| 9.3.3.3	Sugestão para eliminar o Erro| | |✓| |U| |C.9.3.3.3
 72| 9.3.3.4	Prevenção de Erros (Legais, Financeiros, Dados)| | |✓| |U| |C.9.3.3.4
 73| 9.4.1.1	Análise sintática| | | |✓|U| |C.9.4.4.1 
-  | 9.4.1.2	Nome, Função, Valor| | | |✓|U| |C.9.4.4.2
-74| 9.4.1.3	Mensagens de estado|✓|✓|✓|✓|U| |C.9.4.1.3
-75| 11.6.2 Sem disrupção nas funcionalidades de acessibilidade|✓|✓|✓|✓|U| |C.11.6.2
-76| 11.7 Preferências do Utilizador|✓|✓|✓|✓|U| |C.11.7 
-77| 11.8.1 Tecnologia de conteúdo|✓|✓|✓|✓|C|Quando a TIC é uma ferramenta de autor |C.11.8.1
-78| 11.8.2 Criação de conteúdo acessível|✓|✓|✓|✓|C|Quando a TIC é uma ferramenta de autor |C.11.8.2
-79| 11.8.3 Preservação da informação de acessibilidade em transformações |✓|✓|✓|✓|C|Quando a TIC é uma ferramenta de autor|C.11.8.3
-80| 11.8.4 Assistência na reparação|✓|✓|✓|✓|C|Quando a TIC é uma ferramenta de autor |C.11.8.4 
-81| 11.8.5 Modelos|✓|✓|✓|✓|C| Quando a TIC é uma ferramenta de autor |C.11.8.5
-82| 12.1.1 Funcionalidades de acessibilidade e de compatibilidade|✓|✓|✓|✓|U| |C.12.1.1
-83| 12.1.2 Documentação acessível|✓|✓|✓|✓|U| |C.12.1.2
-84| 12.2.2 Informação sobre funcionalidades de acessibilidade e de compatibilidade|✓|✓|✓|✓|U| |C.12.2.2
-85| 12.2.3 Comunicação efetiva|✓| |✓| |U| |C.12.2.3
-86| 12.2.4 Documentação acessível|✓|✓|✓|✓|U| |C.12.2.4
+74| 9.4.1.2	Nome, Função, Valor| | | |✓|U| |C.9.4.4.2
+75| 9.4.1.3	Mensagens de estado|✓|✓|✓|✓|U| |C.9.4.1.3
+76| 11.6.2 Sem disrupção nas funcionalidades de acessibilidade|✓|✓|✓|✓|U| |C.11.6.2
+77| 11.7 Preferências do Utilizador|✓|✓|✓|✓|U| |C.11.7 
+78| 11.8.1 Tecnologia de conteúdo|✓|✓|✓|✓|C|Quando a TIC é uma ferramenta de autor |C.11.8.1
+79| 11.8.2 Criação de conteúdo acessível|✓|✓|✓|✓|C|Quando a TIC é uma ferramenta de autor |C.11.8.2
+80| 11.8.3 Preservação da informação de acessibilidade em transformações |✓|✓|✓|✓|C|Quando a TIC é uma ferramenta de autor|C.11.8.3
+81| 11.8.4 Assistência na reparação|✓|✓|✓|✓|C|Quando a TIC é uma ferramenta de autor |C.11.8.4 
+82| 11.8.5 Modelos|✓|✓|✓|✓|C| Quando a TIC é uma ferramenta de autor |C.11.8.5
+83| 12.1.1 Funcionalidades de acessibilidade e de compatibilidade|✓|✓|✓|✓|U| |C.12.1.1
+84| 12.1.2 Documentação acessível|✓|✓|✓|✓|U| |C.12.1.2
+85| 12.2.2 Informação sobre funcionalidades de acessibilidade e de compatibilidade|✓|✓|✓|✓|U| |C.12.2.2
+86| 12.2.3 Comunicação efetiva|✓| |✓| |U| |C.12.2.3
+87| 12.2.4 Documentação acessível|✓|✓|✓|✓|U| |C.12.2.4
 
 ## Tabela A.2: Aplicações móveis - relações entre o documento presente e os requisitos essenciais da Diretiva 2016/2102/EU
 
