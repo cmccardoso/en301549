@@ -24,6 +24,7 @@ Número da cláusula | Abreviatura de cabeçalho da coluna | Funcionalidade
 ## Tabela B.2: Requisitos nas cláusulas 5 a 13 de suporte às necessidades de acessibilidade expressas nos estatutos de desempenho funcional
 
 Requisitos|4.2.1 WV|4.2.2 LV|4.2.3 WPC|4.2.4 WH|4.2.5 LH|4.2.6 WVC|4.2.7 LMS|4.2.8 LR|4.2.9 PST|4.2.10 LC|4.2.11 P
+----------|--------|--------|---------|--------|--------|---------|---------|--------|---------|---------|--------
 5.1.2.1	Funcionalidade fechada|P|P|P|P|P|P|P|P|P|P|P
 5.1.2.2	Tecnologia de Apoio|-|-|-|-|-|-|-|-|-|-|S
 5.1.3.1	Geral (5.1.3 Acesso não visual)|P|S|-|-|-|-|-|-|-|S|-
