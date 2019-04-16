@@ -7,9 +7,9 @@ Para que a Tabela B.2 encaixe na página, as abreviaturas usadas na Tabela B.1 f
 
 ## Tabela B.1: Chave para as designações do cabeçalho da Tabela B.2
 
-Número da cláusula|Abreviatura de cabeçalho da coluna|Funcionalidade
-4.2.1|WV|Utilização sem visão
-4.2.2|LV|Utilização com visão limitada
+Número da cláusula | Abreviatura de cabeçalho da coluna | Funcionalidade
+4.2.1 | WV | Utilização sem visão
+4.2.2 | LV | Utilização com visão limitada
 4.2.3|WPC|Utilização sem a perceção de cor
 4.2.4|WH|Utilização sem audição
 4.2.5|LH|Utilização com audição limitada
